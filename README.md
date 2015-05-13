@@ -13,7 +13,7 @@ A project structure and useful dependencies for react developers to start easier
 ```terminal
 $ npm install
 ```
-then start coding now!
+then you can start coding now!
 
 ## Watch files and dev server
 ```terminal
