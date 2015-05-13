@@ -1,5 +1,5 @@
 # React Component Project Boilerplate
-A project structure and useful dependencies for react developers to start easier and faster.
+A project structure and useful dependencies for react / flux developers to start easier and faster.
 
 ## Using in this workflow:
 - React
