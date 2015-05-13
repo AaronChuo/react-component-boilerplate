@@ -1,10 +1,10 @@
 # React Component Project Boilerplate
-A project structure and useful dependencies for react / flux developers to start easier and faster.
+A project structure and useful dependencies for react developers to start easier and faster.
 
-## Using in this workflow:
-- React
-- Webpack
-- Jest (Babel version)
+## Used in this workflow:
+- [React][refReact]
+- [Webpack][refWebpack]
+- [Jest][refJest] ([Babel][refBabel] version)
 
 ## Getting started:
 1. Clone this respository.
@@ -33,4 +33,8 @@ $ npm test
 ## Any suggestions?
 Aaron Chuo <[crazychuo@gmail.com][myMail]>
 
+[refReact]: https://facebook.github.io/react/
+[refWebpack]: http://webpack.github.io/
+[refJest]: https://facebook.github.io/jest/
+[refBabel]: https://babeljs.io/
 [myMail]: mailto:crazychuo@gmail.com
